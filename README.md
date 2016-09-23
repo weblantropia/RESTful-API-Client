@@ -1,6 +1,6 @@
 # RESTful-API-Client
 
-Cliente Web para consumir y probar RESTful API. Puedes explorar culquier API local o remoto. Acepta parámetros (POST,PUT) y cabeceras (Headers).
+Cliente Web para consumir y probar RESTful API. Puedes explorar cualquier API local o remoto. Acepta parámetros (POST,PUT) y cabeceras (Headers).
 
 ![RESTful-API-Client](https://github.com/weblantropia/RESTful-API-Client/blob/master/Screenshot.png)
 
