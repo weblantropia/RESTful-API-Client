@@ -32,4 +32,4 @@ En tu navegador accede a  Ej.: http://localhost/restclient/. Asegúrate de que e
 
 ## License
 
-Este proyecto está bajo licencia MIT - ver [LICENSE.md](LICENSE.md) para detalles
+Este proyecto está bajo licencia MIT - ver [LICENSE.md](https://github.com/weblantropia/RESTful-API-Client/blob/master/LICENSE) para detalles
