@@ -1,8 +1,8 @@
 # RESTful-API-Client
 
-Cliente para consumir y probar RESTful API creando con Bootstrap, jQuery y Angular JS. Puedes explorar culquier API local o remoto. Acepta parámetros y cabeceras.
+Cliente Web para consumir y probar RESTful API. Puedes explorar culquier API local o remoto. Acepta parámetros (POST,PUT) y cabeceras (Headers).
 
-![RESTful-API-Client](http://url/to/img.png)
+![RESTful-API-Client](https://github.com/weblantropia/RESTful-API-Client/blob/master/Screenshot.png)
 
 ## Empezando
 
